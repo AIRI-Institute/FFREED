@@ -103,10 +103,18 @@ python main.py \
     --timeout_gen3d 30 \
     --name ffreed
 ```
-<!-- ## Citation
-```
-<CITATION>
-```
 
-## Contact 
-<CONTACT> -->
+## Citation
+To cite this work, please use:
+```
+@article{
+telepov2023freed,
+title={{FREED}++: Improving {RL} Agents for Fragment-Based Molecule Generation by Thorough Reproduction},
+author={Alexander Telepov and Artem Tsypin and Kuzma Khrabrov and Sergey Yakukhnov and Pavel Strashnov and Petr Zhilyaev and Egor Rumiantsev and Daniel Ezhov and Manvel Avetisian and Olga Popova and Artur Kadurin},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2023},
+url={https://openreview.net/forum?id=YVPb6tyRJu},
+note={}
+}
+```
